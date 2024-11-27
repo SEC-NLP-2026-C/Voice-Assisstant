@@ -26,10 +26,8 @@ wikipedia
 opencv-python
 pyowm
 Install them using:
-
-bash
-Copy code
 pip install pyttsx3 SpeechRecognition pyautogui pyjokes pywhatkit wikipedia opencv-python pyowm
+
 OpenWeatherMap API Key:
 
 Sign up at OpenWeatherMap to obtain an API key and replace 'your-api-key' in the script with your actual key.
